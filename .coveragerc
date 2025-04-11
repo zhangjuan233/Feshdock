@@ -1,0 +1,5 @@
+[run]
+include = lightdock/*
+omit =
+    lightdock/scoring/cpydock/data/*,
+    lightdock/scoring/dna/data/*
